@@ -16,7 +16,7 @@
  /* string length */
  echo "<h3>The length of the string is :" .strlen($name) ."</h3>";
     /* word count */
-echo "<h3 style='color:blue;'>The number of words in the string is :".str_word_count($name)."</h3>";
+ echo "<h3 style='color:blue;'>The number of words in the string is :".str_word_count($name)."</h3>";
 
 /* checking for words in a string */
 $txt="My name is Hammad Muntazir";
