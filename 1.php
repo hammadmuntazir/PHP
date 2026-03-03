@@ -33,7 +33,7 @@ function myTest2(){
     echo "<br> Value of x is :$x";
 }
 myTest2();
-# so this is my first code
+
 ?>
 </body>
 </html>
